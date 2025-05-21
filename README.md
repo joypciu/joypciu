@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @joypciu
-- 👀 I’m interested in Asp.net Core,React,Node,Graphql and Next.js
+- 👀 I’m interested in ML/AI Stuffs
 - 📫 How to reach me usmanjoycse@gmail.com
