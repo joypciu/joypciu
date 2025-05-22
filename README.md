@@ -40,7 +40,7 @@
 
 ## 🌟 Projects
 
-- **[Image Summary Generator](https://github.com/joypciu/image-summary-app)**  
+- **[Image Summary Generator](https://github.com/joypciu/gamma_image_chat)**  
   Streamlit app for image summarization using Google Generative AI.  
   🔗 [Demo](https://your-app-name.streamlit.app) *(Update after deployment)*
 
