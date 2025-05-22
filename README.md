@@ -14,24 +14,12 @@
   *Jan 2023 – Present*  
   Built and optimized ML models for diverse industries.
 
-- **ML & AI Consultant**, Freelance  
-  *Feb 2021 – Present*  
-  Advised on AI projects and predictive modeling.
-
-- **.NET Web Developer (Intern)**, Alchemy Software  
-  *Nov 2020 – Jan 2021*  
-  Developed .NET Web APIs for efficient backend systems.
-
----
 
 ## 🎓 Education
 
 - **M.Sc. in Computer Science**, East Delta University  
   CGPA: 3.83/4.00, 2022–2024
-- **B.Sc. in Computer Science**, Port City International University  
-  CGPA: 3.86/4.00, 2016–2020
 
----
 
 ## 📚 Publications
 
