@@ -52,7 +52,7 @@
    📊 **DOI**: 10530632 | 🔗 [Read Paper](https://ieeexplore.ieee.org/document/10530632)
 
 ### **Under Review**
-- Additional manuscripts under review in *IEEE Access*, *Elsevier e-Prime*, and other Q1 venues
+- Additional manuscripts under review in *IEEE Transactions*, *Elsevier's ESWA*, and other Q1 venues
 
 ---
 
