@@ -35,6 +35,8 @@
 ## 🎓 Academic Background
 - **M.Sc. Computer Science & Engineering** | East Delta University | *CGPA: 3.83/4.00* (2022–2024)
 - **B.Sc. Computer Science & Engineering** | Port City International University | *CGPA: 3.86/4.00* (2016–2020)
+- **Higher Secondary Certificate (H.S.C)** | Hazera-Taju University College | GPA: 4.42/5.00 (2014-2015)
+- **Secondary School Certificate (S.S.C)** | Chittagong Government High School | GPA: 5.00/5.00 (2013)
 
 ---
 
@@ -68,11 +70,11 @@
   **Tech**: Streamlit, Google Generative AI, Computer Vision | 🚀 [Live Demo](https://joy-image-chat.streamlit.app/)
 
 ### ⚙️ **Engineering & Testing Frameworks**
-- **[Advanced Full-Stack Testing Suite](https://github.com/joypciu/testing-suite)**  
+- **[Advanced Full-Stack Testing Suite](https://github.com/joypciu/advance_testing_ai)**  
   *Production-ready testing framework with AI-powered validation and Docker containerization*  
   **Tech**: Playwright, Pytest, Docker, CI/CD
 
-- **[QA Automation Framework with Jira Integration](https://github.com/joypciu/qa-framework)**  
+- **[QA Automation Framework with Jira Integration](https://github.com/joypciu/playwright_test)**  
   *Automated UI testing with performance metrics and comprehensive reporting*  
   **Tech**: Playwright, Jira API, HTML Reporting
 
