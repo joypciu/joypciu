@@ -46,7 +46,7 @@
 1. **"An Adaptive Multi-Scale Attention-Based Framework for Robust Energy and Resource Forecasting Across Heterogeneous Datasets"**  
    *e-Prime - Advances in Electrical Engineering, Electronics and Energy (Elsevier), 2025*  
    **Authors**: Joy, Kabir, Farhad & Islam  
-   🔗 [Article Link](https://www.sciencedirect.com/science/article/pii/S2772671124006258)
+   🔗 [Article Link](https://www.sciencedirect.com/science/article/pii/S2772671125001779)
 
 2. **"Big Data-Driven Hybrid Model for Enhancing Streaming Service Customer Retention"**  
    *IEEE Access, 2024*  
