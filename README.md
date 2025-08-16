@@ -5,7 +5,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9498--3828-green)](https://orcid.org/0009-0003-9498-3828)
 
 **Machine Learning Research Engineer & AI Consultant** from Chittagong, Bangladesh  
-*Specializing in adaptive ML frameworks, big data analytics, and energy forecasting systems*
+*Specializing in adaptive ML frameworks, big data analytics, energy forecasting systems, and software testing automation*
 
 📧 [usmanjoycse@gmail.com](mailto:usmanjoycse@gmail.com) | 🌐 [Portfolio](https://joy-resume.vercel.app) | 🔗 [LinkedIn](https://www.linkedin.com/in/usman-gani-joy-975622120/)
 
@@ -52,20 +52,20 @@
    📊 **DOI**: 10530632 | 🔗 [Read Paper](https://ieeexplore.ieee.org/document/10530632)
 
 ### **Under Review**
-- Additional manuscripts under review in *IEEE Transactions*, *Elsevier's ESWA*, and other Q1 venues
+- Manuscripts under review in *Expert Systems with Applications*, *Neurocomputing*, and other Q1 venues
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔬 **Research & AI Applications**
-- **[Academic Research Paper Assistant](https://github.com/joypciu/research-paper-assistant)**  
+- **[Academic Research Paper Assistant](https://github.com/joypciu/Scientific-Figure-Explorer-with-Gemma)**  
   *RAG pipeline using Google Gemini API, FAISS, and LangChain for intelligent PDF research analysis*  
-  **Tech**: Python, LangChain, FAISS, Streamlit
+  **Tech**: Python, LangChain, FAISS, Streamlit | 🚀 [Live Demo](https://joy-academic-research-assistant.streamlit.app/)
 
 - **[Image Summary Generator](https://github.com/joypciu/gamma_image_chat)**  
   *Advanced image analysis using Google Gemma 3 LLM with interactive query system*  
-  **Tech**: Streamlit, Google Generative AI, Computer Vision
+  **Tech**: Streamlit, Google Generative AI, Computer Vision | 🚀 [Live Demo](https://joy-image-chat.streamlit.app/)
 
 ### ⚙️ **Engineering & Testing Frameworks**
 - **[Advanced Full-Stack Testing Suite](https://github.com/joypciu/testing-suite)**  
@@ -109,8 +109,7 @@
 ## 🤝 Professional Network & Collaboration
 
 **Open to**:
-- Research collaborations in ML/AI domains
-- Peer review opportunities 
+- Industry job opportunities in ML/AI and software testing
 - Industry consulting projects
 - Academic partnerships
 
