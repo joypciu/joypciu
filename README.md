@@ -105,9 +105,9 @@
   Automated UI & performance testing framework with integrated Jira issue tracking, metrics, and HTML reporting.  
   _Tech:_ Playwright, Jira API, HTML Reports  
 
-- **[web-scrape-ai-pipeline](https://github.com/joypciu/web-scrape-ai-pipeline)**  
-  End-to-end web-scraping-to-AI pipeline that collects and processes data before applying ML models for analytics.  
-  _Tech:_ Python, BeautifulSoup/Scrapy, ML Pipelines
+- **[sports_scraping](https://github.com/joypciu/sports_scraping)**  
+  A data collection and analytics pipeline for scraping real-time sports statistics, odds, and performance metrics from various online sources.  
+  _Tech:_ Python, Playwright, BeautifulSoup, Data Processing, API Integration
   
 ---
 
