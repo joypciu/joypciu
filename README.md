@@ -1,6 +1,8 @@
-# Md. Usman Gani Joy
+<h1 align="center">Md. Usman Gani Joy</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Research+Engineer;AI+Consultant+%26+Automation+Builder;IEEE+Access+Peer+Reviewer+%2854+reviews%29;Semi-Supervised+%26+Neural+ODE+Researcher;Bridging+Research+%26+Real-World+Impact)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Research+Engineer;AI+Consultant+%26+Automation+Builder;IEEE+Access+Peer+Reviewer+%2854+reviews%29;Semi-Supervised+%26+Neural+ODE+Researcher;Bridging+Research+%26+Real-World+Impact" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/joypciu?style=social" alt="GitHub followers" />
@@ -107,49 +109,49 @@
 
 ### **Journal Articles (Q1 / Indexed)**
 
-1. **“AdaptiveSSL: a unified semi-supervised learning framework for robust classification via adaptive uncertainty calibration and dynamic labeling”**  
+1. **"AdaptiveSSL: a unified semi-supervised learning framework for robust classification via adaptive uncertainty calibration and dynamic labeling"**  
    _Knowledge and Information Systems (Springer), 2026_  
    **Authors:** Usman Gani Joy; M. M. Rahman  
    🔗 [Read Article](https://doi.org/10.1007/s10115-025-02634-9)
 
-2. **“Attention-enhanced LSTM modeling for improved temperature and rainfall forecasting in Bangladesh”**  
+2. **"Attention-enhanced LSTM modeling for improved temperature and rainfall forecasting in Bangladesh"**  
    _Theoretical and Applied Climatology (Springer), 2025_  
    **Authors:** Joy, U.G., Kabir, S. & Niger, T.  
    🔗 [Read Article](https://doi.org/10.1007/s00704-025-05858-5)
 
-3. **“An Adaptive Multi-Scale Attention-Based Framework for Robust Energy and Resource Forecasting Across Heterogeneous Datasets”**  
+3. **"An Adaptive Multi-Scale Attention-Based Framework for Robust Energy and Resource Forecasting Across Heterogeneous Datasets"**  
    _e-Prime – Advances in Electrical Engineering, Electronics and Energy (Elsevier), 2025_  
    **Authors:** Joy, Kabir, Farhad & Islam  
    🔗 [Article Link](https://doi.org/10.1016/j.prime.2025.101070)
 
-4. **“Comparative analysis of Bangla news classification: a study of fake news detection and multiclass classification using BERT and FastText”**  
+4. **"Comparative analysis of Bangla news classification: a study of fake news detection and multiclass classification using BERT and FastText"**  
    _International Journal of Computers and Applications, 2025_  
    **Authors:** Barua, R.; Rahman, M.M.; Joy, U.G.  
    🔗 [Read Paper](https://doi.org/10.1080/1206212X.2025.2495288)
 
-5. **“Enhancing EV charging infrastructure: predictive analysis with hybrid machine learning model”**  
+5. **"Enhancing EV charging infrastructure: predictive analysis with hybrid machine learning model"**  
    _International Journal of Computers and Applications, 2025_  
    **Authors:** Islam Raihat, M.A.; Rahman, M.M.; Joy, U.G.  
    🔗 [Read Paper](https://doi.org/10.1080/1206212X.2025.2566059)
 
-6. **“A Big Data-Driven Hybrid Model for Enhancing Streaming Service Customer Retention Through Churn Prediction Integrated With Explainable AI”**  
+6. **"A Big Data-Driven Hybrid Model for Enhancing Streaming Service Customer Retention Through Churn Prediction Integrated With Explainable AI"**  
    _IEEE Access, 2024_  
    **Authors:** Joy, U.G., Hoque, K.E., Uddin, M.N., Chowdhury, L. & Park, S.-B.  
    🔗 [Read Paper](https://doi.org/10.1109/ACCESS.2024.3401247)
 
 ### **Book Chapter**
 
-- **“Attention-Driven Ensemble Learning: Enhancing Diabetes Prediction in Data-Scarce Environments”**  
+- **"Attention-Driven Ensemble Learning: Enhancing Diabetes Prediction in Data-Scarce Environments"**  
   Springer, 2025 | **Authors:** Kabir, M.S.; Joy, U.G.; Azhar, T.  
   🔗 [Chapter Link](https://doi.org/10.1007/978-3-032-11335-1_10)
 
 ### **Preprints**
 
-- **“Wavelet-Enhanced Neural ODE and Graph Attention for Interpretable Energy Forecasting”**  
+- **"Wavelet-Enhanced Neural ODE and Graph Attention for Interpretable Energy Forecasting"**  
   arXiv, 2025 | **Author:** Usman Gani Joy  
   🔗 [arXiv:2507.10132](https://doi.org/10.48550/ARXIV.2507.10132)
 
-- **“Semi-Supervised Churn Prediction Using Approximate Nearest Neighbors, Graph Propagation and Attention Mechanisms”**  
+- **"Semi-Supervised Churn Prediction Using Approximate Nearest Neighbors, Graph Propagation and Attention Mechanisms"**  
   SSRN, 2025 | **Authors:** Joy, U.G.; Nazib, A.; Rahman, M.M.; et al.
 
 📘 [View Full Publication Record on ORCID →](https://orcid.org/0009-0003-9498-3828) &nbsp;|&nbsp; [Scopus Profile →](https://www.scopus.com/authid/detail.uri?authorId=59147592400) &nbsp;|&nbsp; [Web of Science →](https://www.webofscience.com/wos/author/record/KGM-1915-2024)
@@ -259,7 +261,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joypciu&theme=react-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=joypciu&theme=react-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -290,7 +292,9 @@
 
 ### 💡 Random Dev Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" /></a>
+</p>
 
 ---
 
