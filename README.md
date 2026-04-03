@@ -1,6 +1,6 @@
 # Md. Usman Gani Joy
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Research+Engineer;AI+Consultant+%26+Automation+Builder;IEEE+Access+Peer+Reviewer+(54+reviews);Semi-Supervised+%26+Neural+ODE+Researcher;Bridging+Research+%26+Real-World+Impact>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Research+Engineer;AI+Consultant+%26+Automation+Builder;IEEE+Access+Peer+Reviewer+%2854+reviews%29;Semi-Supervised+%26+Neural+ODE+Researcher;Bridging+Research+%26+Real-World+Impact)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/joypciu?style=social" alt="GitHub followers" />
@@ -47,11 +47,12 @@
 ## ⚡ At a Glance
 
 ```
-🔭 Research      Neural ODEs · Semi-Supervised Learning · Energy Forecasting · NLP
-💼 Day job       Data Engineering at Eternity Labs
-🤖 AI Tools      TensorFlow · PyTorch · LangChain · FAISS · Hugging Face
-📝 Reviewing     IEEE Access · IEEE Trans. Computational Social Systems (54 reviews)
-⚡ Fun fact      I build ML models that go from paper to production
+🔭 Research    Neural ODEs · Semi-Supervised Learning · Energy Forecasting · NLP
+💼 Day job     Data Engineering at Eternity Labs
+🤖 AI Tools   TensorFlow · PyTorch · LangChain · FAISS · Hugging Face
+📝 Reviewing  IEEE Access · IEEE TCSSI · IJEST  ·  54 completed reviews
+🏆 Published  9 works  ·  6 journals  ·  1 book chapter  ·  2 preprints
+⚡ Fun fact   I build ML models that go from paper to production
 ```
 
 ---
@@ -104,51 +105,51 @@
 
 ## 📖 Publications
 
-### **Journal Articles**
+### **Journal Articles (Q1 / Indexed)**
 
-1. **"AdaptiveSSL: a unified semi-supervised learning framework for robust classification via adaptive uncertainty calibration and dynamic labeling"**  
+1. **“AdaptiveSSL: a unified semi-supervised learning framework for robust classification via adaptive uncertainty calibration and dynamic labeling”**  
    _Knowledge and Information Systems (Springer), 2026_  
    **Authors:** Usman Gani Joy; M. M. Rahman  
    🔗 [Read Article](https://doi.org/10.1007/s10115-025-02634-9)
 
-2. **"Attention-enhanced LSTM modeling for improved temperature and rainfall forecasting in Bangladesh"**  
+2. **“Attention-enhanced LSTM modeling for improved temperature and rainfall forecasting in Bangladesh”**  
    _Theoretical and Applied Climatology (Springer), 2025_  
    **Authors:** Joy, U.G., Kabir, S. & Niger, T.  
    🔗 [Read Article](https://doi.org/10.1007/s00704-025-05858-5)
 
-3. **"An Adaptive Multi-Scale Attention-Based Framework for Robust Energy and Resource Forecasting Across Heterogeneous Datasets"**  
+3. **“An Adaptive Multi-Scale Attention-Based Framework for Robust Energy and Resource Forecasting Across Heterogeneous Datasets”**  
    _e-Prime – Advances in Electrical Engineering, Electronics and Energy (Elsevier), 2025_  
    **Authors:** Joy, Kabir, Farhad & Islam  
    🔗 [Article Link](https://doi.org/10.1016/j.prime.2025.101070)
 
-4. **"Comparative analysis of Bangla news classification: a study of fake news detection and multiclass classification using BERT and FastText"**  
+4. **“Comparative analysis of Bangla news classification: a study of fake news detection and multiclass classification using BERT and FastText”**  
    _International Journal of Computers and Applications, 2025_  
    **Authors:** Barua, R.; Rahman, M.M.; Joy, U.G.  
    🔗 [Read Paper](https://doi.org/10.1080/1206212X.2025.2495288)
 
-5. **"Enhancing EV charging infrastructure: predictive analysis with hybrid machine learning model"**  
+5. **“Enhancing EV charging infrastructure: predictive analysis with hybrid machine learning model”**  
    _International Journal of Computers and Applications, 2025_  
    **Authors:** Islam Raihat, M.A.; Rahman, M.M.; Joy, U.G.  
    🔗 [Read Paper](https://doi.org/10.1080/1206212X.2025.2566059)
 
-6. **"A Big Data-Driven Hybrid Model for Enhancing Streaming Service Customer Retention Through Churn Prediction Integrated With Explainable AI"**  
+6. **“A Big Data-Driven Hybrid Model for Enhancing Streaming Service Customer Retention Through Churn Prediction Integrated With Explainable AI”**  
    _IEEE Access, 2024_  
    **Authors:** Joy, U.G., Hoque, K.E., Uddin, M.N., Chowdhury, L. & Park, S.-B.  
    🔗 [Read Paper](https://doi.org/10.1109/ACCESS.2024.3401247)
 
 ### **Book Chapter**
 
-- **"Attention-Driven Ensemble Learning: Enhancing Diabetes Prediction in Data-Scarce Environments"**  
+- **“Attention-Driven Ensemble Learning: Enhancing Diabetes Prediction in Data-Scarce Environments”**  
   Springer, 2025 | **Authors:** Kabir, M.S.; Joy, U.G.; Azhar, T.  
   🔗 [Chapter Link](https://doi.org/10.1007/978-3-032-11335-1_10)
 
 ### **Preprints**
 
-- **"Wavelet-Enhanced Neural ODE and Graph Attention for Interpretable Energy Forecasting"**  
+- **“Wavelet-Enhanced Neural ODE and Graph Attention for Interpretable Energy Forecasting”**  
   arXiv, 2025 | **Author:** Usman Gani Joy  
   🔗 [arXiv:2507.10132](https://doi.org/10.48550/ARXIV.2507.10132)
 
-- **"Semi-Supervised Churn Prediction Using Approximate Nearest Neighbors, Graph Propagation and Attention Mechanisms"**  
+- **“Semi-Supervised Churn Prediction Using Approximate Nearest Neighbors, Graph Propagation and Attention Mechanisms”**  
   SSRN, 2025 | **Authors:** Joy, U.G.; Nazib, A.; Rahman, M.M.; et al.
 
 📘 [View Full Publication Record on ORCID →](https://orcid.org/0009-0003-9498-3828) &nbsp;|&nbsp; [Scopus Profile →](https://www.scopus.com/authid/detail.uri?authorId=59147592400) &nbsp;|&nbsp; [Web of Science →](https://www.webofscience.com/wos/author/record/KGM-1915-2024)
@@ -160,15 +161,15 @@
 ### 🔬 AI & Research Applications
 
 - **[academic-research-assistant](https://github.com/joypciu/academic-research-assistant)**  
-  An AI-powered academic research assistant for literature search, summarization, and Q&A over scholarly content.  
+  AI-powered academic assistant for literature search, summarization, and Q&A over scholarly content.  
   _Tech:_ Python, LLM, RAG, Streamlit
 
 - **[Scientific-Figure-Explorer-with-Gemma](https://github.com/joypciu/Scientific-Figure-Explorer-with-Gemma)**  
-  Interactive research-paper assistant with RAG pipeline (LangChain + FAISS + Gemini API) for exploring PDFs, figures, and results.  
+  RAG pipeline (LangChain + FAISS + Gemini API) for exploring research PDFs, figures, and results.  
   _Tech:_ Python, LangChain, Streamlit
 
 - **[llm_finetune_bangla](https://github.com/joypciu/llm_finetune_bangla)**  
-  Fine-tuning framework for Bangla language LLMs — dataset preparation, training, and evaluation.  
+  Fine-tuning framework for Bangla LLMs — dataset preparation, training, and evaluation.  
   _Tech:_ Python, Hugging Face Transformers, Bangla NLP
 
 - **[tts-model-project](https://github.com/joypciu/tts-model-project)**  
@@ -182,41 +183,41 @@
 ### ⚙️ Data Engineering & Infrastructure
 
 - **[apache_kafka_stream](https://github.com/joypciu/apache_kafka_stream)**  
-  Real-time data streaming pipeline built on Apache Kafka for high-throughput event processing.  
+  Real-time data streaming pipeline on Apache Kafka for high-throughput event processing.  
   _Tech:_ Python, Apache Kafka, Streaming
 
 - **[sports_data_real_time_fetch](https://github.com/joypciu/sports_data_real_time_fetch)**  
-  Live sports data ingestion and analytics pipeline with real-time fetching and processing.  
+  Live sports data ingestion and analytics pipeline with real-time fetching.  
   _Tech:_ Python, APIs, Data Pipelines
 
 - **[smart_auth_with_kubernate_redis](https://github.com/joypciu/smart_auth_with_kubernate_redis)**  
-  Scalable authentication system with Kubernetes orchestration and Redis session management.  
+  Scalable authentication with Kubernetes orchestration and Redis session management.  
   _Tech:_ Python, Kubernetes, Redis, FastAPI
 
 ### 🧪 Testing & QA Frameworks
 
 - **[advance_testing_ai](https://github.com/joypciu/advance_testing_ai)**  
-  Full-stack AI-powered testing automation framework with CI/CD integration and containerization.  
+  Full-stack AI-powered testing automation with CI/CD integration and containerization.  
   _Tech:_ Playwright, Pytest, Docker, GitHub Actions
 
 - **[playwright_test](https://github.com/joypciu/playwright_test)**  
-  Automated UI & performance testing framework with Jira issue tracking and HTML reporting.  
+  Automated UI & performance testing with Jira issue tracking and HTML reporting.  
   _Tech:_ Playwright, Jira API, HTML Reports
 
 ---
 
 ## 🧠 Technical Expertise
 
-| Domain                           | Technologies                                                    |
-| -------------------------------- | --------------------------------------------------------------- |
-| **Machine Learning & AI**        | TensorFlow, Keras, PyTorch, Scikit-learn, LangChain, FAISS      |
-| **Semi-Supervised / Neural ODE** | SSL frameworks, Graph Propagation, Attention, Neural ODEs       |
-| **NLP & LLMs**                   | Hugging Face Transformers, BERT, FastText, Fine-tuning, RAG     |
-| **Data Engineering**             | Apache Kafka, Redis, PostgreSQL, SQLite, Real-time Pipelines    |
-| **Programming**                  | Python, Java, JavaScript, SQL                                   |
-| **Web & API**                    | React, ASP.NET Core, FastAPI                                    |
-| **Testing & QA**                 | Playwright, Pytest, Selenium, Performance & Integration Testing |
-| **DevOps & Infra**               | Docker, Kubernetes, Git, CI/CD Automation                       |
+| Domain | Technologies |
+|--------|--------------|
+| **Machine Learning & AI** | TensorFlow, Keras, PyTorch, Scikit-learn, LangChain, FAISS |
+| **Semi-Supervised / Neural ODE** | SSL frameworks, Graph Propagation, Attention, Neural ODEs |
+| **NLP & LLMs** | Hugging Face Transformers, BERT, FastText, Fine-tuning, RAG |
+| **Data Engineering** | Apache Kafka, Redis, PostgreSQL, SQLite, Real-time Pipelines |
+| **Programming** | Python, Java, JavaScript, SQL |
+| **Web & API** | React, ASP.NET Core, FastAPI |
+| **Testing & QA** | Playwright, Pytest, Selenium, Performance & Integration Testing |
+| **DevOps & Infra** | Docker, Kubernetes, Git, CI/CD Automation |
 
 ---
 
@@ -233,8 +234,7 @@
 
 ## 🧩 Competitive Programming
 
-**BeeCrowd Profile:** [141917](https://judge.beecrowd.com/en/profile/141917)  
-Active competitive problem solver with verified profiles and submissions.
+**BeeCrowd Profile:** [141917](https://judge.beecrowd.com/en/profile/141917) · Active competitive problem solver with verified profiles and submissions.
 
 ---
 
@@ -248,6 +248,27 @@ Active competitive problem solver with verified profiles and submissions.
 
 **Current Role:** Data Engineer @ Eternity Labs | IEEE Access & IJTCS Reviewer  
 **Researcher IDs:** [ORCID](https://orcid.org/0009-0003-9498-3828) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59147592400) · [Web of Science KGM-1915-2024](https://www.webofscience.com/wos/author/record/KGM-1915-2024) · [SciProfiles](https://sciprofiles.com/profile/4516255)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joypciu&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Usman's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joypciu&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joypciu&theme=react-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joypciu&theme=react&no-bg=true&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -267,15 +288,6 @@ Active competitive problem solver with verified profiles and submissions.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joypciu&show_icons=true&theme=react&hide_border=true" alt="Usman's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joypciu&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 💡 Random Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -289,12 +301,11 @@ Active competitive problem solver with verified profiles and submissions.
   <a href="https://www.linkedin.com/in/usman-gani-joy-975622120/"><img src="https://img.shields.io/badge/LinkedIn-Usman_Gani_Joy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:usmanjoycse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://joy-resume.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0003-9498-3828"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
-
-📞 **Phone:** +8801521325162
 
 ---
 
-[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)](https://github.com/kyechan99/capsule-render)
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=ffffff&fontSize=16&text=Thanks+for+visiting!&desc=Let%27s+build+something+great+together&descAlignY=70)](https://github.com/kyechan99/capsule-render)
 
 > _"Building intelligent systems that bridge the gap between research innovation and real-world impact."_
