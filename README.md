@@ -101,6 +101,8 @@ Backend/data engineer specializing in **AI/ML-backed APIs**, **scalable data pip
 
 - **M.S. in CSE** — East Delta University (2022–2024) | CGPA **3.83 / 4.00**
 - **B.S. in CSE** — Port City International University (2016–2020) | CGPA **3.86 / 4.00**
+- **HSC** — Hajera-Taju Degree College (2013–2015) | GPA **4.42 / 5.00**
+- **SSC** — Chittagong Govt. School (2012–2013) | GPA **5.00 / 5.00**
 
 ---
 
