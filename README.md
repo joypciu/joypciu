@@ -153,7 +153,7 @@ Backend/data engineer specializing in **AI/ML-backed APIs**, **scalable data pip
 ### Preprints
 
 - **Wavelet-Enhanced Neural ODE and Graph Attention for Interpretable Energy Forecasting** — arXiv, 2025 · [arXiv:2507.10132](https://doi.org/10.48550/ARXIV.2507.10132)
-- **Semi-Supervised Churn Prediction Using Approximate Nearest Neighbors, Graph Propagation and Self-Training** — SSRN, 2025 · [SSRN](https://ssrn.com/abstract=5253116)
+- **Semi-Supervised Churn Prediction Using Approximate Nearest Neighbors, Graph Propagation and Self-Training** — SSRN preprint, 2025
 
 [ORCID](https://orcid.org/0009-0003-9498-3828) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59147592400) · [Web of Science](https://www.webofscience.com/wos/author/record/KGM-1915-2024)
 
