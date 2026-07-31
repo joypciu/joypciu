@@ -286,3 +286,9 @@ Backend/data engineer specializing in **AI/ML-backed APIs**, **scalable data pip
 [![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=ffffff&fontSize=16&text=Thanks+for+visiting!&desc=Building+AI%2FML-backed+APIs%2C+pipelines%2C+and+automation&descAlignY=70)](https://github.com/kyechan99/capsule-render)
 
 > _"Backend systems, data pipelines, and applied ML — from research papers to production APIs."_
+
+---
+
+<p align="center">
+  <sub>© 2026 Md. Usman Gani Joy. All rights reserved. This profile README and its contents may not be copied, reproduced, or redistributed without prior written permission.</sub>
+</p>
